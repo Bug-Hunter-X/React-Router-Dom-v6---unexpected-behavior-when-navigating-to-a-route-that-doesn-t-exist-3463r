@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an unexpected behavior in React Router Dom v6. When navigating to a route that doesn't exist, the application behaves unexpectedly. The solution demonstrates how to handle such scenarios gracefully using the `useLocation` hook and conditional rendering.
